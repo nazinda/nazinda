@@ -54,7 +54,8 @@ To grow into a reliable and well-rounded software engineer by continuously learn
 ## 📫 Contact
 - 📧 **Email:** naziinda@icloud.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nazinda-211462319/ 
-- 🐙 **GitHub:** [github.com/nazinda ](https://github.com/nazinda) 
+- 🐙 **GitHub:** [github.com/nazinda ](https://github.com/nazinda)
+- 🌐 **Portfolio:** https://nazinda.netlify.app/
 
 <p align="center">
 — Always learning, always improving —
